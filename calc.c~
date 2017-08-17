@@ -26,13 +26,6 @@ int main(){
         return 0;
 }
 
-
-
-
-
-
-
-
 void split(char* string, char* op, int* fac){
 
         int i = 0;
